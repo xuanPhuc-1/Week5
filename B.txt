@@ -1,0 +1,31 @@
+4.17
+5.
+int min (int a, int b, int c, int d){
+int min =a;
+if(min > b) min =b;
+if(min > c) min =c;
+if(min > d) min=d;
+return min;
+}
+7. D
+8. A
+9.B
+10.B
+11.C
+12.B
+13.D
+14.D
+15.B
+16.B
+17.B
+18.A
+19.B
+20.C
+21.B
+22.C
+23.C
+24A
+25.A
+26.B
+
+
